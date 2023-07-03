@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "bild",
+                "name": "Bild"
+            },
+            "author": "BILD",
+            "title": "Cricket-Spieler Jonny Bairstow schleppt Klima-Aktivisten vom Platz | Sport",
+            "description": "Bei einem Cricketspiel zwischen England und Australien kam es zu einer Spielverzögerung aufgrund eines Just-Stop-Oil-Protests.",
+            "url": "https://www.bild.de/video/clip/sport-videos/cricket-spieler-jonny-bairstow-schleppt-klima-aktivisten-vom-platz-84497858.bild.html",
+            "urlToImage": "https://images.bild.de/649c507f6fc40a6bd1668cd6/45e90f23d37104ee3c309836a736645a,c6356042?w=1280",
+            "publishedAt": "2023-06-28T17:28:44Z",
+            "content": "Mehr zum Video anzeigen\r\nBei einem Cricketspiel zwischen England und Australien kam es zu einer Spielverzögerung aufgrund eines Just-Stop-Oil-Protests. Jonny Bairstow ging der Klima-Auftritt eine Spu… [+149 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
