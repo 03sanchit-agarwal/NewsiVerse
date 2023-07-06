@@ -47,3 +47,4 @@ export class NavBar extends Component {
 }
 
 export default NavBar
+console.log("sanchit");
